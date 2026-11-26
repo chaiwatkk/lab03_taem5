@@ -11,3 +11,4 @@
 ## caser.py (สมาชิก 4)
 - ผู้จัดทำ: 69114540686 สิทธินนท์ บุญเรืองพะเนา (Sitthinon-Bunruengphanao)
 - ฟังก์ชัน: capitalize_words(text) แปลงตัวอักษรแรกของแต่ละคำเป็นตัวพิมพ์ใหญ่
+ตัวอย่างที่สอง: `capitalize_words("a  b")` ได้ `"A B"`
